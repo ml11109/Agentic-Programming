@@ -1,0 +1,98 @@
+{
+    "japan": {
+        "level": 1,
+        "label": "Exercise Normal Precautions",
+        "risks": [
+            "Earthquakes and tsunamis are possible",
+            "Typhoon season runs July\u2013October"
+        ],
+        "tips": [
+            "Travel insurance covering natural disasters is recommended",
+            "Familiarise yourself with local evacuation routes"
+        ]
+    },
+    "france": {
+        "level": 2,
+        "label": "Exercise Increased Caution",
+        "risks": [
+            "Pickpocketing is common in tourist areas",
+            "Occasional civil unrest and strikes"
+        ],
+        "tips": [
+            "Keep valuables secure in crowded areas",
+            "Check local news for transport disruptions"
+        ]
+    },
+    "thailand": {
+        "level": 1,
+        "label": "Exercise Normal Precautions",
+        "risks": [
+            "Petty theft in tourist areas",
+            "Road safety standards are lower than Western countries"
+        ],
+        "tips": [
+            "Use reputable taxi apps rather than hailing on the street",
+            "Be cautious on rented motorbikes"
+        ]
+    },
+    "australia": {
+        "level": 1,
+        "label": "Exercise Normal Precautions",
+        "risks": [
+            "Dangerous wildlife in rural areas",
+            "Strong UV radiation year-round"
+        ],
+        "tips": [
+            "Apply sunscreen daily",
+            "Swim only at patrolled beaches between the flags"
+        ]
+    },
+    "italy": {
+        "level": 2,
+        "label": "Exercise Increased Caution",
+        "risks": [
+            "Pickpocketing near major tourist sites",
+            "Scams targeting tourists in busy areas"
+        ],
+        "tips": [
+            "Use hotel safes for passports and extra cash",
+            "Be wary of unsolicited help from strangers"
+        ]
+    },
+    "united states": {
+        "level": 2,
+        "label": "Exercise Increased Caution",
+        "risks": [
+            "Crime rates vary significantly by city and neighbourhood",
+            "Natural disasters vary by region (hurricanes, tornadoes, wildfires)"
+        ],
+        "tips": [
+            "Research specific areas you plan to visit",
+            "Ensure health insurance coverage given high medical costs"
+        ]
+    },
+    "india": {
+        "level": 2,
+        "label": "Exercise Increased Caution",
+        "risks": [
+            "Air quality in major cities can be poor",
+            "Food and waterborne illnesses are a risk"
+        ],
+        "tips": [
+            "Drink only bottled or purified water",
+            "Consult a doctor about recommended vaccinations before travel"
+        ]
+    },
+    "brazil": {
+        "level": 3,
+        "label": "Reconsider Travel",
+        "risks": [
+            "High crime rates including robbery and carjacking in urban areas",
+            "Demonstrations can turn violent"
+        ],
+        "tips": [
+            "Avoid displaying expensive items in public",
+            "Use app-based taxis rather than street taxis"
+        ]
+    }
+}

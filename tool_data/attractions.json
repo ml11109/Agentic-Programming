@@ -1,0 +1,130 @@
+{
+    "tokyo": [
+        {
+            "name": "Senso-ji Temple",
+            "category": "culture",
+            "description": "Tokyo's oldest temple in the historic Asakusa district"
+        },
+        {
+            "name": "Shibuya Crossing",
+            "category": "culture",
+            "description": "The world's busiest pedestrian crossing, iconic at night"
+        },
+        {
+            "name": "Tsukiji Outer Market",
+            "category": "food",
+            "description": "Fresh sushi and street food from early morning"
+        },
+        {
+            "name": "Mount Takao Hike",
+            "category": "nature",
+            "description": "Accessible day hike with views of Mount Fuji on clear days"
+        },
+        {
+            "name": "TeamLab Borderless",
+            "category": "adventure",
+            "description": "Immersive digital art museum unlike anything else"
+        },
+        {
+            "name": "Ramen Street",
+            "category": "food",
+            "description": "Eight of Tokyo's best ramen restaurants under one roof"
+        }
+    ],
+    "paris": [
+        {
+            "name": "Eiffel Tower",
+            "category": "culture",
+            "description": "Iconic iron lattice tower with panoramic city views"
+        },
+        {
+            "name": "The Louvre",
+            "category": "culture",
+            "description": "World's largest art museum, home to the Mona Lisa"
+        },
+        {
+            "name": "Montmartre",
+            "category": "culture",
+            "description": "Bohemian hilltop neighbourhood with Sacr\u00e9-C\u0153ur Basilica"
+        },
+        {
+            "name": "Bois de Boulogne",
+            "category": "nature",
+            "description": "Large public park ideal for cycling and picnics"
+        },
+        {
+            "name": "Rue Cler Market",
+            "category": "food",
+            "description": "Charming street market perfect for French cheeses and wine"
+        },
+        {
+            "name": "Seine River Cruise",
+            "category": "adventure",
+            "description": "Scenic boat tour past major landmarks at golden hour"
+        }
+    ],
+    "bangkok": [
+        {
+            "name": "Grand Palace",
+            "category": "culture",
+            "description": "Stunning royal complex and home of the Emerald Buddha"
+        },
+        {
+            "name": "Chatuchak Weekend Market",
+            "category": "food",
+            "description": "One of the world's largest markets with incredible street food"
+        },
+        {
+            "name": "Wat Arun",
+            "category": "culture",
+            "description": "Temple of Dawn with intricate porcelain-decorated spires"
+        },
+        {
+            "name": "Lumphini Park",
+            "category": "nature",
+            "description": "Green oasis in the city centre, great for morning walks"
+        },
+        {
+            "name": "Muay Thai Evening",
+            "category": "adventure",
+            "description": "Watch a live Muay Thai bout at a local stadium"
+        },
+        {
+            "name": "Chinatown (Yaowarat)",
+            "category": "food",
+            "description": "Street food paradise, best experienced after dark"
+        }
+    ],
+    "sydney": [
+        {
+            "name": "Sydney Opera House",
+            "category": "culture",
+            "description": "Iconic performing arts venue on the harbour"
+        },
+        {
+            "name": "Bondi to Coogee Walk",
+            "category": "nature",
+            "description": "Stunning coastal clifftop walk past several beaches"
+        },
+        {
+            "name": "The Rocks Markets",
+            "category": "food",
+            "description": "Weekend market with local produce, crafts and street food"
+        },
+        {
+            "name": "Harbour Bridge Climb",
+            "category": "adventure",
+            "description": "Guided climb to the top of the iconic bridge for 360\u00b0 views"
+        },
+        {
+            "name": "Darling Harbour",
+            "category": "culture",
+            "description": "Waterfront precinct with museums, dining and entertainment"
+        },
+        {
+            "name": "Barangaroo Reserve",
+            "category": "nature",
+            "description": "Foreshore parkland with Aboriginal heritage and harbour views"
+        }
+    ]
+}
